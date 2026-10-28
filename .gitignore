@@ -1,0 +1,5 @@
+.idea
+.vscode
+app-installe.json
+app-test-output.json
+.DS_Store
